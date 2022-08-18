@@ -4,9 +4,9 @@ App that adds item to card. And also it calculates total price.
 
 Built with:
 
-* ReactJs
-* React Hooks (useReducer, useState, useEffect)
-* [DummyJSON](https://dummyjson.com/) API
+- ReactJs
+- React Hooks (useReducer, useState, useEffect)
+- [DummyJSON](https://dummyjson.com/) API
 
 # Screen shots
 
