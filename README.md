@@ -1,10 +1,17 @@
 ## Description
 
+App that adds item to card. And also it calculates total price.
 
+Built with:
 
+* ReactJs
+* React Hooks (useReducer, useState, useEffect)
+* [DummyJSON](https://dummyjson.com/) API
 
+# Screen shots
 
 ![s1](https://user-images.githubusercontent.com/25987727/185388455-5e7559e2-ea01-42ed-874a-c161b6a924ed.png)
+
 ![s2](https://user-images.githubusercontent.com/25987727/185388461-fa189542-107c-4830-a433-ad9b5dce77ba.png)
 
 # Getting Started with Create React App
